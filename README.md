@@ -21,6 +21,8 @@ This repository have sample code repository for "Kore-ga Mastodon da!"(Impress R
 
 -----
 
+(In Japanese)
+
 # 「これがマストドンだ！」サンプルコード
 
 マストドン研究会編『これがマストドンだ！　使い方からインスタンスの作り方まで』（インプレスR&D）の中の「マストドンAPIの叩き方」という章のサンプルコードです。
