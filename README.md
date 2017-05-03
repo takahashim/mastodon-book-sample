@@ -5,6 +5,7 @@ This repository have sample code repository for "Kore-ga Mastodon da!"(Impress R
 ## How to use
 
 * modify config.yml; get access_token and write it.
+    * If you want to get access_token on trial, try https://takahashim.github.io/mastodon-access-token/ .
 * execute `bundle install`
 * execute `bundle exec toot.rb` or `bundle exec timeline.rb`
 
@@ -32,6 +33,7 @@ This repository have sample code repository for "Kore-ga Mastodon da!"(Impress R
 ## 使い方
 
 * access_tokenを取得して、その値をconfig.ymlに書き込む
+    * 実験用にaccess_tokenを用意したい場合、 https://takahashim.github.io/mastodon-access-token/ で取得できます
 * `bundle install` を実行する
 * `bundle exec toot.rb` または `bundle exec timeline.rb` を実行する
 
