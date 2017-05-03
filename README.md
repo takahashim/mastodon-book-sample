@@ -1,6 +1,6 @@
 # Sample code of "Mastodon Book"
 
-This repository have sample code repository for "Kore-ga Mastodon da!"(Impress R&D).
+This repository have sample code repository for "Kore-ga Mastodon da!"(Impress R&D, ISBN: 9784844397724).
 
 ## How to use
 
@@ -25,7 +25,7 @@ This repository have sample code repository for "Kore-ga Mastodon da!"(Impress R
 
 # 「これがマストドンだ！」サンプルコード
 
-マストドン研究会編『これがマストドンだ！　使い方からインスタンスの作り方まで』（インプレスR&D）の中の「マストドンAPIの叩き方」という章のサンプルコードです。
+[マストドン研究会編『これがマストドンだ！　使い方からインスタンスの作り方まで』（インプレスR&D, ISBN: 9784844397724）](http://nextpublishing.jp/book/8776.html)の中の「マストドンAPIの叩き方」という章のサンプルコードです。
 
 紙面の都合上、完全に動くコードは掲載できなかったのですが、こちらは完全版になっています。
 
