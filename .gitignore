@@ -1,0 +1,10 @@
+## Bundler's lock files
+Gemfile.lock
+
+## config files
+config.yml
+
+## backup files
+*~
+#*#
+*.bak
